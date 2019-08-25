@@ -33,7 +33,7 @@
 
 ### 게시글 등록, 수정
 + 관리자는 관리자 페이지를 이용하여 게시글을 작성하거나, 수정할 수 있습니다.
-<img src="images/기술블로그_시연-02글등록수정.gif" width="85%" height="75%">
+<img src="https://github.com/dlrltjq1004/resume/blob/master/images/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8_%EC%8B%9C%EC%97%B0-01%EA%B8%80%EC%9D%BD%EA%B8%B0_%EB%8C%93%EA%B8%80.gif" width="85%" height="75%">
 
 <br>
 
