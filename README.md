@@ -16,6 +16,7 @@
 크게 고민할 필요가 없고 팀원과의 소통할때도 문서를 보여주면 어떻게 만들어야 하는지 방향이 잡히니
 커뮤니케이션이나 개발생산성이 크게 향상되었던 것 같습니다.
 
+<br>
 
 ### 개발전 작성한 문서
 + [요구사항정의서](https://github.com/dlrltjq1004/resume/blob/master/document/1_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.md)
