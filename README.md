@@ -33,24 +33,24 @@
 
 ### 게시글 등록, 수정
 + 관리자는 관리자 페이지를 이용하여 게시글을 작성하거나, 수정할 수 있습니다.
-<img src="images/기술블로그_시연-02글등록수정.gif" width="85%" height="75%">
+<img src="https://github.com/dlrltjq1004/resume/blob/master/images/기술블로그_시연-02글등록수정.gif" width="85%" height="75%">
 
 <br>
 
 ### 게시글 정렬, 검색
 + 게시글을 (최근,오래된, 카테고리)순으로 정렬할 수 있습니다.
 + 원하는 키워드를 통해 검색할 수 있습니다.
-<img src="images/기술블로그_시연-03정렬검색.gif" width="85%" height="75%">
+<img src="https://github.com/dlrltjq1004/resume/blob/master/images/기술블로그_시연-03정렬검색.gif" width="85%" height="75%">
 
 <br>
 
 ### 게시글 삭제, 선택삭제, 전체삭제
 + 게시글의 삭제 버튼을 통해 글을 삭제 하거나 원하는 글만 체크하여 삭제할 수 있습니다.
-<img src="images/기술블로그_시연-04글삭제.gif" width="85%" height="75%">
+<img src="https://github.com/dlrltjq1004/resume/blob/master/images/기술블로그_시연-04글삭제.gif" width="85%" height="75%">
 
 <br>
 
 ### 댓글 작성
 + 댓글 기능 내에서 로그인한 사용자는 댓글을 작성할 수 있습니다.
 + 댓글기능은 Disqus댓글 서비스를 이용하였습니다.
-<img src="images/기술블로그_시연-01글읽기_댓글.gif" width="85%" height="75%">
+<img src="https://github.com/dlrltjq1004/resume/blob/master/images/기술블로그_시연-01글읽기_댓글.gif" width="85%" height="75%">
