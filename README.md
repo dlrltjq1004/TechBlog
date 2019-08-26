@@ -10,6 +10,13 @@
 
 <br>
 
+## 문서화 느낀점
++ 이번 프로젝트에서 처음으로 문서화를 진행 후 개발에 들어가게 되었는데
+사전에 설계를 하고 문서화를 통해 팀원들과 공유를 하니 개발시에는 무엇을 어떻게 만들지
+크게 고민할 필요가 없고 팀원과의 소통할때도 문서를 보여주면 어떻게 만들어야 하는지 방향이 잡히니
+커뮤니케이션이나 개발생산성이 크게 향상되었던 것 같습니다.
+
+
 ### 개발전 작성한 문서
 + [요구사항정의서](https://github.com/dlrltjq1004/resume/blob/master/document/1_%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.md)
 + [화면정의서](https://github.com/dlrltjq1004/resume/blob/master/document/2_%ED%99%94%EB%A9%B4%EC%A0%95%EC%9D%98%EC%84%9C.md)
