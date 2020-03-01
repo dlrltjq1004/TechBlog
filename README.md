@@ -26,7 +26,7 @@
 + [테이블정의서](https://github.com/dlrltjq1004/resume/blob/master/document/5_%ED%85%8C%EC%9D%B4%EB%B8%94%EC%A0%95%EC%9D%98%EC%84%9C.md)
 + [프로세스정의서](https://github.com/dlrltjq1004/resume/blob/master/document/6_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%A0%95%EC%9D%98%EC%84%9C.md)
 + [프로세스설계서](https://github.com/dlrltjq1004/resume/blob/master/document/7_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%84%A4%EA%B3%84%EC%84%9C.md)
-+[프로그램목록](https://github.com/dlrltjq1004/resume/blob/master/document/8_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%AA%A9%EB%A1%9D.md)
++ [프로그램목록](https://github.com/dlrltjq1004/resume/blob/master/document/8_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%AA%A9%EB%A1%9D.md)
 
 <br>
 
